@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Caleb Perkins](https://github.com/caleb-p93)
+- [Anil Rajak] (https://github.com/AnilRajak1983)
 - [Robert Davis](https://github.com/robertdavis)
 - [Imthiaz Muhassin/Imthiaz123] (https://github.com/Imthiaz123)
 - [Iam Pranav Yadav](https://github.com/pranav50227)
